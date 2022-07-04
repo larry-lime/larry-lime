@@ -2,7 +2,6 @@
 - 🌱 I’m currently a Freshmen studying Computer Science @ NYU Shanghai
 - ✨ As a programmer, I mainly code in python and am interested in backend web development, blockchain, and ML for finance
 - 🎉 Outside of programming, I'm often playing soccer, going to the gym, or organizing club events on campus 
-- 📚 Currently... learning Django
 - 📫 How to reach me:
 - Email: ll4715@nyu.edu
 - Linkedin: https://www.linkedin.com/in/lawrence-lim-0b81a5212/
