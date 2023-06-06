@@ -2,7 +2,7 @@
 - 🌱 I’m currently a Sophomore studying Computer Science @ NYU Shanghai
 - 📫 How to reach me:
 - Email: ll4715@nyu.edu
-- Linkedin: [https://www.linkedin.com/in/lawrence-lim-0b81a5212/](https://www.linkedin.com/in/lawrence-rx-lim/)
+- Linkedin: [lawrence-rx-lim](https://www.linkedin.com/in/lawrence-rx-lim/)
 - Instagram: @lawrence_lim_
 - WeChat: L5512275627
 
