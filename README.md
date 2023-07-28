@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Lawrence Lim @larry-lime
-- 🌱 I’m currently a Junior studying Computer Science @ NYU Shanghai
-- 📚 I enjoy working with Python and building apps that people use. I also do research in computer networking. LeetCode is fun too.
+- 🌱 I am a Computer science student at NYU Shanghai and currently a Software Engineer intern at Knn3. I also have a curiosity and growing passion for entreprenuership. 
+- 📚 I work mainly in Python, though I am working on expand my language skillset by working on some projects in Rust. As for my interests, I am especially curious about blockchain applications and Zero-knowledge proofs. 
 - 📫 Feel Free to Reach Out:
+- Homepage: [lawrencelim.xyz](https://lawrencelim.xyz/)
 - Email: ll4715@nyu.edu
 - Linkedin: [lawrence-rx-lim](https://www.linkedin.com/in/lawrence-rx-lim/)
 - Instagram: @lawrence_lim_
