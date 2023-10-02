@@ -6,7 +6,6 @@
 - Email: ll4715@nyu.edu
 - Linkedin: [lawrence-rx-lim](https://www.linkedin.com/in/lawrence-rx-lim/)
 - Instagram: @lawrence_lim_
-- WeChat: L5512275627
 
 <!---
 larry-lime/larry-lime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
