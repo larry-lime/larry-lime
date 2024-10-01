@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Lawrence Lim @larry-lime
 - 📫 Feel Free to Reach Out:
-- Homepage: [lawrencelim.xyz](https://lawrencelim.xyz/)
-- Email: lawrence.lim@nyu.edu
+- Email: lawrence@henry.social
 - Linkedin: [lawrence-rx-lim](https://www.linkedin.com/in/lawrence-rx-lim/)
 - Instagram: @lawrence_lim_
 
