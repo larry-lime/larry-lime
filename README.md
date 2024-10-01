@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lawrence Lim @larry-lime
 - 📫 Feel Free to Reach Out:
-- Email: lawrence@henry.social
+- Email:  [lawrence@henry.social](mailto:lawrence@henry.social)
 - Linkedin: [lawrence-rx-lim](https://www.linkedin.com/in/lawrence-rx-lim/)
 - Instagram: @lawrence_lim_
 
