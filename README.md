@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Lawrence Lim @larry-lime
+- 👋 Hi, I’m Lawrence and I'm building [Henry Labs](https://www.henrylabs.ai/)
 - 📫 Feel Free to Reach Out:
 - Email:  [lawrence@henrylabs.ai](mailto:lawrence@henrylabs.ai)
 - Linkedin: [lawrence-rx-lim](https://www.linkedin.com/in/lawrence-rx-lim/)
-- Instagram: @lawrence_lim_
 
 <!---
 larry-lime/larry-lime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
